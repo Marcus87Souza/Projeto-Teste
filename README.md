@@ -1,6 +1,3 @@
-# Keeggo_Avaliacao
-
-
 
 ## Sobre
 Projeto criado para dar continuidade a um processo seletivo.
