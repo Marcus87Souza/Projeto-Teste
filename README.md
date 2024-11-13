@@ -3,7 +3,7 @@
 Projeto criado para dar continuidade a um processo seletivo.
 O desafio é criar alguns cenarios para a pagina http://automationpractice.com/index.php.
 
-Usando o IDE Visual Studio Code, foi instalado o cypress versão 8.1 e para atender a construção dos cenarios na metodologia BDD, foi instalado o Cucumber.
+Usando o IDE Visual Studio Code, foi instalado o cypress versão 13.15.2 e para atender a construção dos cenarios na metodologia BDD, foi instalado o Cucumber.
 Como padrão para a execução dos cenarios do cypress, a inteligencia executa os arquivos ".js" localizados no diretorio integration, entretanto, após a instalação do cucumber, é necessario adicionar as linhas no cypress.json
 
 ...
@@ -26,7 +26,7 @@ Desta forma os arquivos ".feature" criados com os cenarios, são encontrados e e
 ## Instalações
 npm init --yes
 
-npm install -D cypress@8.1
+npm install -D cypress@13.15.2
 
 npm instal -D cypress-cucumber-preprocessor
 
